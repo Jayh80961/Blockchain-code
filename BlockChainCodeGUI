@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
-
+ 
 public class BlockchainCodeGUI {
     private static ArrayList<String> textList = new ArrayList<>();
     private static JPanel textPanel;
